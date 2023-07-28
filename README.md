@@ -1,4 +1,6 @@
 # Overview
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkonveyor%2Frulesets.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkonveyor%2Frulesets?ref=badge_shield)
+
 This repository is a future home for Konveyor's static code analysis Rulesets.  It is intended to contain future rules to aid static code analysis as well as issues shared by subject matter experts to aid creation of richer Rulesets.
 * Intended for [Rules](https://github.com/konveyor/analyzer-lsp/blob/main/docs/rules.md) compatible with [konveyor/analyzer-lsp](https://github.com/konveyor/analyzer-lsp)
 
@@ -46,3 +48,7 @@ For those interested, we have a [user group focused on improving the migration e
 
 ## Code of Conduct
 Refer to Konveyor's Code of Conduct [here](https://github.com/konveyor/community/blob/main/CODE_OF_CONDUCT.md).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkonveyor%2Frulesets.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkonveyor%2Frulesets?ref=badge_large)
